@@ -108,16 +108,15 @@ if(isset($_POST['login']) and isset($_POST['haslo']))
 ```
 
 ## Setup
-To run this project locally on your home computer, you need to install the free XAMPP application. 
-You can download XAMPP [here](http://www.apachefriends.org/en/xampp-windows.html#641). 
+To run this project locally on your home computer, you need to install XAMPP frome [here](http://www.apachefriends.org/en/xampp-windows.html#641) . 
 After correct installation, launch the XAMPP control panel. 
-Here you need to enable Apache and MySQL server by clicking "Start" in the Actions column. 
-You should also have a database MySQL that can be created via *localhost/phpmyadmin*. 
-Then put the project folder in *xampp/htdocs* and run in your browser by typing *localhost/clinic/login.php*.
+Click "start" in Actions column on Apache and MySql.
+You need make database MySQL created via *localhost/phpmyadmin*. 
+Then put the project folder in *htdocs* and run in your browser.
 
 ## Status
 Project is: *in progress*.
 
 ## Contact
 Created by [Krzysztof Makówka](https://github.com/KrzyMK).
-<br>E-mail: anor.spam@gmail.com -contact !
+<br>E-mail: anor.spam@gmail.com -easy way to me contact !
